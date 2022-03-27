@@ -1,0 +1,13 @@
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\bin\Debug\netcoreapp3.1\BusStops.exe
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\bin\Debug\netcoreapp3.1\BusStops.deps.json
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\bin\Debug\netcoreapp3.1\BusStops.runtimeconfig.json
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\bin\Debug\netcoreapp3.1\BusStops.runtimeconfig.dev.json
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\bin\Debug\netcoreapp3.1\BusStops.dll
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\bin\Debug\netcoreapp3.1\BusStops.pdb
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\obj\Debug\netcoreapp3.1\BusStops.csprojAssemblyReference.cache
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\obj\Debug\netcoreapp3.1\BusStops.AssemblyInfoInputs.cache
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\obj\Debug\netcoreapp3.1\BusStops.AssemblyInfo.cs
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\obj\Debug\netcoreapp3.1\BusStops.csproj.CoreCompileInputs.cache
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\obj\Debug\netcoreapp3.1\BusStops.dll
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\obj\Debug\netcoreapp3.1\BusStops.pdb
+C:\Users\VladosDudos\source\repos\BusStations\BusStation\obj\Debug\netcoreapp3.1\BusStops.genruntimeconfig.cache
